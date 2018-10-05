@@ -1,0 +1,1 @@
+python ParkingLotDetector.py --image car_parking_test.jpg --image_ref car_parking_ref.jpg --row 2 --col 7
